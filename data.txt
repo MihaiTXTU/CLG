@@ -1,0 +1,3 @@
+Name: Mihai
+Age:37
+Favorite color: Black
